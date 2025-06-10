@@ -36,8 +36,6 @@ SmartHUD is a smart and minimalistic Head-Up Display (HUD) app for any four-whee
 
 👉 Go to the [**Releases**](https://github.com/LakshyaMittal1/SmartHUD/releases) section to download the latest APK.
 
-> APK coming soon!
-
 ---
 
 ### 💡 Future Enhancements
