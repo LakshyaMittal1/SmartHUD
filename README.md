@@ -1,5 +1,3 @@
-# SmartHUD
-
 # 🚘 SmartHUD - Smart Head-Up Display for Vehicles
 
 SmartHUD is a smart and minimalistic Head-Up Display (HUD) app for any four-wheeler with a windshield. It uses GPS to display **real-time speed** and **current time** in a bright, bold interface — ideal for night driving, where the phone screen can be reflected onto the windshield like a digital dashboard.
